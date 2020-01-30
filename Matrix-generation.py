@@ -8,7 +8,7 @@
 #number_one: counts the number of elements in the matrix that have the value of 1
 
 ## Jonas adds a new random comment
- 
+ #adding new stuff again (2)
 #----------
 #Updates: (When people edit the code make a note here)
 #28/01/20 (12:22)(Greg): I have created this program
