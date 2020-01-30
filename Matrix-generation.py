@@ -6,6 +6,9 @@
 #row: a variable whose numerical value dictates which row of the matrix you are on
 #column: a variable whose numerical value dictates which column of the matrix you are on
 #number_one: counts the number of elements in the matrix that have the value of 1
+
+## Jonas adds a new random comment
+ 
 #----------
 #Updates: (When people edit the code make a note here)
 #28/01/20 (12:22)(Greg): I have created this program
